@@ -1,5 +1,6 @@
 # CPU Schedulling 
-Operating System Project 
+Operating System Project.
+
 It is made by rishabh kumar.
 
 
